@@ -1,34 +1,217 @@
 [
     {
-      "id": 1,
-      "title": "Program Title 1",
+      "id": 0,
+      "title": "Laivaannousu alkaa",
       "day": "sunday",
-      "startTime": "2022-12-01T09:00:00.000Z",
-      "endTime": "2022-12-01T10:00:00.000Z",
+      "startTime": "2024-08-25T13:00:00",
+      "endTime": "2024-08-25T16:00:00",
       "location": "olympiaterminaali",
-      "description": "Program description 1",
-      "link": "https://example.com/1",
-      "showEndTime": true,
-      "imageLocation": "https://example.com/image1.jpg",
+      "showEndTime": false,
+      "imageLocation": "images/laivaan-min.png",
+      "description": "Turvatarkastus alkaa klo 12.30 ja laivaan pääsee klo 13.00 alkaen. <b>Huomioithan, että hyttien siivous on vielä kesken ja hytteihin saa mennä vasta klo 15.30.</b>\n\nHytteihin pääsyä voi odotella Kaljaasin Esileikin merkeissä Starlight-yökerhossa tai Sunflower Oasis -kylpylässä.\n\n<b>Turvatarkastus</b>\nJärjestyksenvalvojat tekevät lähtöterminaalissa kaikille turvatarkastuksen, jossa tarkistetaan ettei laivaan tuoda tapahtumassa kiellettyjä asioita. Jätäthän myös kaiken ruoan ja juoman kotiin.\n\nKielletyt esineet ja asiat:\n• Alkoholituotteet ja muut huumaavat aineet\n• Polkupyörät, potkulaudat, skeittilaudat ja sähkömopot\n• Ampuma-, terä- ja lyömäaseet\n• Räjähteet, ilotulitteet, soihdut, laserit, spraymaalit\n• Lemmikit\n\nKiellettyjä aineita ja esineitä ei takavarikoida säilytykseen turvatarkastuksessa, vaan ne tulee jättää terminaalin kioskin maksulliseen säilytykseen tai heittää roskiin. Pienet taskukokoiset kaiuttimet ovat sallittuja, max 20 x 10 x 10 cm.",
       "notification": {
-        "description": "Notification description 1",
-        "notificationTimeAddition": 30
+        "description": "Laivaan pääsee jo klo 13.00 alkaen, mutta hyttiin saa mennä vasta klo 15.30.",
+        "notificationTimeAddition": -15
+      }
+    },
+    {
+      "id": 1,
+      "title": "Esileikki: Kide.app Onnenpyörä",
+      "day": "sunday",
+      "startTime": "2024-08-25T13:30:00",
+      "endTime": "2024-08-25T15:30:00",
+      "location": "starlight",
+      "showEndTime": true,
+      "imageLocation": "images/starlight-min.png",
+      "description": "On tärkeää lämmitellä ennen suoritusta. Esileikki valmistelee optimaaliseen Kaljaasikokemukseen ja virittelee kosteaan tunnelmaan.\n\nEsileikki sisältää viihdettä hyttien siivouksen valmistumista odotellessa. Ohjelmassa mm. juomapelejä sekä spektaakkeli: Kide.app Onnenpyörä.\n\nStarlightin sulkeutuessa janoisimmat löytävät juotavaa Promenaden baareista; Sushi ja Promenade Wine Bar, Old Port Pub sekä Kahvila Fast Lane.\n\n<b><y>Ilmoittaudu Pukukilpailuun</y></b>\nIlmoittaudu Fantasy Island -pukukilpailuun ennakkoon Esileikin aikana. Tarkemmat ohjeet juontajalta.",
+      "notification": {
+        "description": "Esileikki viihdyttää hyttien siivouksen valmistumista odotellessa Starlightissa",
+        "notificationTimeAddition": -15
       }
     },
     {
       "id": 2,
-      "title": "Program Title 2",
-      "day": "monday",
-      "startTime": "2022-12-02T09:00:00.000Z",
-      "endTime": "2022-12-02T10:00:00.000Z",
+      "title": "Ilmoittaudu pukukilpailuun",
+      "day": "sunday",
+      "startTime": "2024-08-25T13:30:00",
+      "endTime": "2024-08-25T20:30:00",
       "location": "starlight",
-      "description": "Program description 2",
-      "link": "https://example.com/2",
-      "showEndTime": false,
-      "imageLocation": "https://example.com/image2.jpg",
+      "showEndTime": true,
+      "imageLocation": "images/pukukisa-min.png",
+      "description": "Kaljaasi ei olisi mitään ilman teeman mukaisia asuja. Kuka vie tänä vuonna huikean pukuskaban voiton?\n\n<b>Pukukilpailuun ilmoittautuminen </b>\nIlmoittaudu ennakkoon ja nouda kilpailunumero:\nEsileikissä klo 13.30-15.00\nSilja Conference -tilassa, kansi 6, klo 19.30-20.30\n\nIlmoittautuessa ei tarvitse olla pukeutuneena kilpailuasuun.\nPaikkoja pukukilpailuun on rajoitetusti. Tänä vuonna kilpaillaan kahdessa luokassa, sekä yksilönä että joukkueena. Molemmista luokista valitaan oma voittaja. Vain olemalla paikalla voit voittaa. Osallistujia pyydetään saapumaan Casino Bariin viimeistään klo 21.50.\n\nKilpailijat kutsutaan lavalle numerojärjestyksessä ja yleisö valitsee finaalissa upeimmat asut ja hahmot.\nTätä et tahdo missata!",
       "notification": {
-        "description": "Notification description 2",
-        "notificationTimeAddition": 60
+        "description": "Ilmoittaudu pukukisaan ennakkoon ja nouda kilpailunumero Starlightista",
+        "notificationTimeAddition": 5
       }
+    },
+    {
+      "id": 3,
+      "title": "Pääsy hytteihin",
+      "day": "sunday",
+      "startTime": "2024-08-25T15:30:00",
+      "endTime": "2024-08-25T15:40:00",
+      "location": "cabin",
+      "showEndTime": false,
+      "imageLocation": "images/hytit-min.png",
+      "description": "Hytit ovat valmiit matkustajille.\nTiesitkö, että hyttinumeron ensimmäiset numerot kertovat kannen numeron ja sitä seuraava luku lähimmän hissin numeron?\n\nLaivaannousukortti toimii myös hyttiavaimena ja siihen voi olla tallennettuna etukäteen ostettuja palveluja, kuten ateriakuponkeja. Kastunut, taitettu tai esimerkiksi leikattu kortti ei enää toimi. Säilytäthän laivaannousukortin erillään puhelimesta ja sähkölaitteista, sillä laivaannousukortin magneettiraita voi vahingoittua ja puhelin tai muut sähkölaitteet voivat ottaa häiriötä magneettiraidasta.\n\nLisää Oma Kaljaasi -sivulla oman hytin ja muissa hyteissä majoittuvien kavereiden hyttinumerot muistiin.",
+      "notification": {
+        "description": "Hytit ovat valmiit matkustajille.",
+        "notificationTimeAddition": 0
+      }
+    },
+    {
+      "id": 4,
+      "title": "Rastiretki, sunnuntai",
+      "day": "sunday",
+      "startTime": "2024-08-25T16:30:00",
+      "endTime": "2024-08-25T20:00:00",
+      "showEndTime": false,
+      "imageLocation": "images/rastikierros-min.png",
+      "notification": {
+        "description": "Kokoa oma retkikuntasi ja lähde mukaan eeppiselle rastiseikkailulle! Rastit aukeavat klo 16.30.",
+        "notificationTimeAddition": -5
+      },
+      "description": "Kokoa oma retkikuntasi ja lähde mukaan eeppiselle rastiseikkailulle sunnuntaina klo 16.30.\n\n<b>Rastipassit jaetaan sunnuntaina</b>\nStarlightin sisäänkäynnin edessä, kansi 7, klo 16.30\n\nJoukkueen koko: 2-8\nRastipasseja on jaossa 100 nopeimmalle joukkueelle.\n<b>Huom! 1 passi / joukkue!</b>\n\nKierrä joukkueen kanssa ympäri laivaa sijoitetut rastit. Rastien sijainnin löydät rastipassista. Rasteilla joukkueet suorittavat erilaisia aikamatka-aiheisia tehtäviä ja Kaljaasin yhteistyökumppanit arvioivat joukkueen suorituksen. Eniten pisteitä keränneet voittavat upeita eksklusiivisia palkintoja!\n\nRastit ovat avoinna klo 16.30 - 20.00.\nRastipassien palautus klo 19.30-20.30 Silja Conference -tilaan, kansi 6.\n\nVoittajajoukkueet julkistetaan noin klo 21.25 The Ultimate Time Machine -shown aikana Starlight-yökerhossa. Vain olemalla paikalla palkintojenjaossa voi voittaa!"
+    },
+    {
+      "id": 5,
+      "title": "Photowall",
+      "day": "sunday",
+      "startTime": "2024-08-25T17:00:00",
+      "endTime": "2024-08-25T20:00:00",
+      "location": "nyClub",
+      "showEndTime": true,
+      "imageLocation": "images/photowall-min.png",
+      "notification": {
+        "description": "Käy ikuistamassa itsesi ja kaverisi Kaljaasin kuvausseinällä",
+        "notificationTimeAddition": 0
+      },
+      "description": "Käy ikuistamassa itsesi ja kaverisi Kaljaasin kuvausseinällä, niin muistat reissun jälkeenkin jotain. Kaljaasin virallisen valokuvaajan ottamat kuvat julkaistaan <link ext=\"https://www.facebook.com/kaljaasi\">Kaljaasin Facebook-sivulla</link> tapahtuman jälkeen."
+    },
+    {
+      "id": 6,
+      "title": "Starlight aukeaa",
+      "day": "sunday",
+      "startTime": "2024-08-25T20:00:00",
+      "endTime": "2024-08-25T21:00:00",
+      "showEndTime": false,
+      "location": "starlight",
+      "imageLocation": "images/starlight-min.png",
+      "notification": {
+        "description": "Varmista hyvät paikat The Ultimate Time Machine -showsta ja kipaise baaritiskiltä opiskelijahintaiset juomat.",
+        "notificationTimeAddition": 0
+      },
+      "description": "Varmista hyvät paikat The Ultimate Time Machine -showsta ja kipaise baaritiskiltä Happy Hour -hintaiset juomat."
+    },
+    {
+      "id": 7,
+      "title": "Time Machine Show",
+      "day": "sunday",
+      "startTime": "2024-08-25T21:00:00",
+      "endTime": "2024-08-25T22:30:00",
+      "showEndTime": true,
+      "location": "starlight",
+      "imageLocation": "images/juokaljaasi-min.png",
+      "description": "Koko risteilyn viihdyttävin show, jota et varmasti halua jättää väliin! Nouda baaritiskiltä cocktail ja nauti matkasta läpi aikojen universumin.\n\nShow sisältää mm. jo perinteeksi muodostuneen Juo Kaljaasi -elämyksen, risteilyn turvaseksiasioista vastaavat Kortsuritarit ja muita aikamatkailuun liittyviä yllätyksiä.\nShown aikana valitaan myös Kaljaasi Universum -pukukilpailun voittaja ja jaetaan rastikierroksen palkinnot. Palkintoja ei ole mahdollista lunastaa jälkikäteen, muistathan olla paikalla."
+    },
+    {
+      "id": 8,
+      "title": "Pukukilpailu",
+      "day": "sunday",
+      "startTime": "2024-08-25T22:00:00",
+      "endTime": "2024-08-25T22:30:00",
+      "location": "starlight",
+      "showEndTime": true,
+      "imageLocation": "images/pukukisa-min.png",
+      "notification": {
+        "description": "Vielä ehtii ilmoittautua pukukisaan. Käy ilmoittautumassa 20.30 mennessä.",
+        "notificationTimeAddition": -15
+      },
+      "description": "Kaljaasi ei olisi mitään ilman teeman mukaisia asuja. Kuka vie tänä vuonna huikean pukuskaban voiton?\n\n<b>Pukukilpailuun ilmoittautuminen</b>\nIlmoittaudu ennakkoon ja nouda kilpailunumero:\nEsileikissä klo 13.30-15.00\nSilja Conference -tilassa, kansi 6, klo 19.30-20.30\n\nIlmoittautuessa ei tarvitse olla pukeutuneena kilpailuasuun.\nPaikkoja pukukilpailuun on rajoitetusti. Tänä vuonna kilpaillaan kahdessa luokassa, sekä yksilönä että joukkueena. Molemmista luokista valitaan oma voittaja. Vain olemalla paikalla voit voittaa. Osallistujia pyydetään saapumaan Casino Bariin viimeistään klo 21.50\n\nKilpailijat kutsutaan lavalle numerojärjestyksessä ja yleisö valitsee finaalissa upeimmat asut ja hahmot.\nTätä et tahdo missata!"
+    },
+    {
+      "id": 9,
+      "title": "Karaoke",
+      "day": "sunday",
+      "startTime": "2024-08-25T21:00:00",
+      "endTime": "2024-08-25T22:30:00",
+      "location": "nyClub",
+      "showEndTime": true,
+      "imageLocation": "images/karaoke-min.png",
+      "notification": {
+        "description": "Laivan oma karaoke NY Clubilla klo 21.00->",
+        "notificationTimeAddition": 0
+      },
+      "description": "Laivan oma karaoke NY Clubilla klo 21.00-22.30."
+    },
+    {
+      "id": 10,
+      "title": "DJ Johnny Ryder",
+      "day": "sunday",
+      "startTime": "2024-08-25T22:30:00",
+      "endTime": "2024-08-26T00:00:00",
+      "location": "promenade",
+      "imageLocation": "images/promebileet-min.png",
+      "notification": {
+        "description": "Tuu Promelle tsekkaa mikä meininki!",
+        "notificationTimeAddition": 0
+      },
+      "description": "Et voi missata Promebileitä laivan keskeisimmällä bilepaikalla, Promenadella. DJ Johnny Ryder viihdyttää musiikilla 22.30-00.00."
+    },
+    {
+      "id": 11,
+      "title": "Kuningaskunta",
+      "day": "sunday",
+      "startTime": "2024-08-25T23:15:00",
+      "endTime": "2024-08-25T23:55:00",
+      "location": "starlight",
+      "showEndTime": false,
+      "imageLocation": "images/diskotimantti-min.png",
+      "notification": {
+        "description": "Kuningaskunta lämmittelee Starlightin tunnelmaa NYT!",
+        "notificationTimeAddition": 0
+      },
+      "description": "Viimeisimmän Kaljaasibiisin: S.O.S. (Kaljaasi Anthem 2021) luonut Kungingaskunta-kokoonpano esiintyy.\nBändillä on pitkä historia Suomiräpin parissa. Vuonna 2021 bändi solmi levytyssopimuksen LÖYLY VIIHTEEN kanssa ja sen myötä uudistettu saundi on todiste siitä, etteivät SUPERSTEFU ja FREDI FATE ole jämähtäneet menneisyyteen."
+    },
+    {
+      "id": 12,
+      "title": "Gasellit",
+      "day": "sunday",
+      "startTime": "2024-08-26T00:00:00",
+      "endTime": "2024-08-26T01:00:00",
+      "location": "starlight",
+      "showEndTime": false,
+      "imageLocation": "images/gasellit.jpg",
+      "description": "Sunnuntaina Kaljaasin juhlakansaa viihdyttää yksi Suomen suosituimpiin rap-yhtyeisiin lukeutuva Gasellit. Gasellit-yhtye koostuu neljästä jäsenestä Päkä, Hätä-Miikka, Thube Hefner sekä Musajusa. Yhtye on perustettu jo vuonna 2008, mutta lähivuosina Gasellien suosio on räjähtänyt valloilleen ja yhtye kiertääkin ympäri Suomen, niin festareiden kuin klubikeikkojen muodossa!"
+    },
+    {
+      "id": 13,
+      "title": "Bilebändi Illansuu",
+      "day": "sunday",
+      "startTime": "2024-08-26T01:00:00",
+      "endTime": "2024-08-26T02:45:00",
+      "showEndTime": true,
+      "location": "starlight",
+      "imageLocation": "images/illansuu-min.png",
+      "notification": {
+        "description": "Illansuu Starlightissa NYT!",
+        "notificationTimeAddition": 0
+      },
+      "description": "Bilebändi Illansuu ja DJ tanssittavat Kaljaasikansaa aina aamukuuteen, nukkua ehtii myöhemminkin! Illansuu tuo lavalle artistitason karismaa ja ainutlaatuisen shown joka saa tanssilattian tulikuumaksi ja tiukimmankin lantion keinumaan! Energinen Illansuu on villinnyt Kaljaasi-yleisöä jo useampana vuonna, eli bileet on taas taattu! Monipuolinen ohjelmisto kattaa musiikkia laidasta laitaan aina pop-/rock-klassikoista nykypäivän hitteihin, mutta pääpaino on laadukkaasti toteutetuissa ja sovitetuissa bilebiiseissä."
+    },
+    {
+      "id": 14,
+      "title": "Bileet jatkuvat",
+      "day": "sunday",
+      "startTime": "2024-08-26T03:00:00",
+      "endTime": "2024-08-26T06:00:00",
+      "showEndTime": true,
+      "location": "starlight",
+      "imageLocation": "images/bileet-min.png",
+      "notification": {
+        "description": "DJ tanssittaa Kaljaasikansaa aina aamukuuteen, nukkua ehtii myöhemminkin!",
+        "notificationTimeAddition": 0
+      },
+      "description": "DJ tanssittaa Kaljaasikansaa aina aamukuuteen, nukkua ehtii myöhemminkin!\n\nNY Club sulkeutuu 04.00 mutta Starlight on avoinna 06.00 asti"
     }
   ]
