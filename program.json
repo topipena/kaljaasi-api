@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Program Title 1",
+      "day": "sunday",
+      "startTime": "2022-12-01T09:00:00.000Z",
+      "endTime": "2022-12-01T10:00:00.000Z",
+      "location": "olympiaterminaali",
+      "description": "Program description 1",
+      "link": "https://example.com/1",
+      "showEndTime": true,
+      "imageLocation": "https://example.com/image1.jpg",
+      "notification": {
+        "description": "Notification description 1",
+        "notificationTimeAddition": 30
+      }
+    },
+    {
+      "id": 2,
+      "title": "Program Title 2",
+      "day": "monday",
+      "startTime": "2022-12-02T09:00:00.000Z",
+      "endTime": "2022-12-02T10:00:00.000Z",
+      "location": "starlight",
+      "description": "Program description 2",
+      "link": "https://example.com/2",
+      "showEndTime": false,
+      "imageLocation": "https://example.com/image2.jpg",
+      "notification": {
+        "description": "Notification description 2",
+        "notificationTimeAddition": 60
+      }
+    }
+  ]
