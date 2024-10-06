@@ -71,7 +71,7 @@
       "description": "Kokoa oma retkikuntasi ja lähde mukaan eeppiselle rastiseikkailulle! Rastit aukeavat klo 16.30.",
       "notificationTimeAddition": -5
     },
-    "description": "Kokoa oma retkikuntasi ja lähde mukaan eeppiselle rastiseikkailulle sunnuntaina klo 16.30.\n\n<b>Rastipassit jaetaan sunnuntaina</b>\nStarlightin sisäänkäynnin edessä, kansi 7, klo 16.30\n\nJoukkueen koko: 2-8\nRastipasseja on jaossa 100 nopeimmalle joukkueelle.\n<b>Huom! 1 passi / joukkue!</b>\n\nKierrä joukkueen kanssa ympäri laivaa sijoitetut rastit. Rastien sijainnin löydät rastipassista. Rasteilla joukkueet suorittavat erilaisia aikamatka-aiheisia tehtäviä ja Kaljaasin yhteistyökumppanit arvioivat joukkueen suorituksen. Eniten pisteitä keränneet voittavat upeita eksklusiivisia palkintoja!\n\nRastit ovat avoinna klo 16.30 - 20.00.\nRastipassien palautus klo 19.30-20.30 Silja Conference -tilaan, kansi 6.\n\nVoittajajoukkueet julkistetaan noin klo 21.25 The Ultimate Time Machine -shown aikana Starlight-yökerhossa. Vain olemalla paikalla palkintojenjaossa voi voittaa!"
+    "description": "Kokoa oma retkikuntasi ja lähde mukaan eeppiselle rastiseikkailulle sunnuntaina klo 16.30.\n\n<b>Rastipassit jaetaan sunnuntaina</b>\nStarlightin sisäänkäynnin edessä, kansi 7, klo 16.30\n\nJoukkueen koko: 2-8\nRastipasseja on jaossa 100 nopeimmalle joukkueelle.\n<b>Huom! 1 passi / joukkue!</b>\n\nKierrä joukkueen kanssa ympäri laivaa sijoitetut rastit. Rastien sijainnin löydät rastipassista. Rasteilla joukkueet suorittavat erilaisia aikamatka-aiheisia tehtäviä ja Kaljaasin yhteistyökumppanit arvioivat joukkueen suorituksen. Eniten pisteitä keränneet voittavat upeita eksklusiivisia palkintoja!\n\nRastit ovat avoinna klo 16.30 - 20.00.\nRastipassien palautus klo 19.30-20.30 Silja Conference -tilaan, kansi 6.\n\nVoittajajoukkueet julkistetaan noin klo 21.25 Pääshown aikana Starlight-yökerhossa. Vain olemalla paikalla palkintojenjaossa voi voittaa!"
   },
   {
     "id": 5,
@@ -98,10 +98,10 @@
     "location": "starlight",
     "imageLocation": "images/starlight-min.png",
     "notification": {
-      "description": "Varmista hyvät paikat The Ultimate Time Machine -showsta ja kipaise baaritiskiltä opiskelijahintaiset juomat.",
+      "description": "Varmista hyvät paikat Pääshowsta ja kipaise baaritiskiltä opiskelijahintaiset juomat.",
       "notificationTimeAddition": 0
     },
-    "description": "Varmista hyvät paikat The Ultimate Time Machine -showsta ja kipaise baaritiskiltä Happy Hour -hintaiset juomat."
+    "description": "Varmista hyvät paikat Pääshowsta ja kipaise baaritiskiltä Happy Hour -hintaiset juomat."
   },
   {
     "id": 7,
@@ -127,7 +127,7 @@
       "description": "Vielä ehtii ilmoittautua pukukisaan. Käy ilmoittautumassa 20.30 mennessä.",
       "notificationTimeAddition": -15
     },
-    "description": "Kaljaasi ei olisi mitään ilman teeman mukaisia asuja. Kuka vie tänä vuonna huikean pukuskaban voiton?\n\n<b>Pukukilpailuun ilmoittautuminen</b>\nIlmoittaudu ennakkoon ja nouda kilpailunumero:\nEsileikissä klo 13.30-15.00\nSilja Conference -tilassa, kansi 6, klo 19.30-20.30\n\nIlmoittautuessa ei tarvitse olla pukeutuneena kilpailuasuun.\nPaikkoja pukukilpailuun on rajoitetusti. Tänä vuonna kilpaillaan kahdessa luokassa, sekä yksilönä että joukkueena. Molemmista luokista valitaan oma voittaja. Vain olemalla paikalla voit voittaa. Osallistujia pyydetään saapumaan Casino Bariin viimeistään klo 21.50\n\nKilpailijat kutsutaan lavalle numerojärjestyksessä ja yleisö valitsee finaalissa upeimmat asut ja hahmot.\nTätä et tahdo missata!"
+    "description": "Kaljaasi ei olisi mitään ilman teeman mukaisia asuja. Kuka vie tänä vuonna huikean pukuskaban voiton?\n\n<b>Pukukilpailuun ilmoittautuminen</b>\nIlmoittaudu ennakkoon ja nouda kilpailunumero:\nEsileikissä klo 13.30-15.00\nSilja Conference -tilassa, kansi 6, klo 19.30-20.30\n\nIlmoittautuessa ei tarvitse olla pukeutuneena kilpailuasuun.\nPaikkoja pukukilpailuun on rajoitetusti. Tänä vuonna kilpaillaan kahdessa luokassa, sekä yksilönä että joukkueena. Molemmista luokista valitaan oma voittaja. Vain olemalla paikalla voit voittaa. Osallistujia pyydetään saapumaan laivan Conference-tilaan viimeistään klo 21.50\n\nKilpailijat kutsutaan lavalle numerojärjestyksessä ja yleisö valitsee finaalissa upeimmat asut ja hahmot.\nTätä et tahdo missata!"
   },
   {
     "id": 9,
@@ -148,15 +148,15 @@
     "id": 10,
     "title": "DJ Johnny Ryder",
     "day": "sunday",
-    "startTime": "2024-11-10T22:30:00",
-    "endTime": "2024-11-21T00:00:00",
+    "startTime": "2024-11-10T23:00:00",
+    "endTime": "2024-11-11T01:00:00",
     "location": "promenade",
     "imageLocation": "images/promebileet-min.png",
     "notification": {
       "description": "Tuu Promelle tsekkaa mikä meininki!",
       "notificationTimeAddition": 0
     },
-    "description": "Et voi missata Promebileitä laivan keskeisimmällä bilepaikalla, Promenadella. DJ Johnny Ryder viihdyttää musiikilla 22.30-00.00."
+    "description": "Et voi missata Promebileitä laivan keskeisimmällä bilepaikalla, Promenadella. DJ Johnny Ryder viihdyttää musiikilla 23.00-01.00."
   },
   {
     "id": 11,
@@ -188,7 +188,7 @@
     "id": 13,
     "title": "Bilebändi Illansuu",
     "day": "sunday",
-    "startTime": "2024-11-11T01:00:00",
+    "startTime": "2024-11-11T01:15:00",
     "endTime": "2024-11-11T02:45:00",
     "showEndTime": true,
     "location": "starlight",
