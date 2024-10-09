@@ -22,7 +22,7 @@
     "endTime": "2024-11-10T15:30:00",
     "location": "starlight",
     "showEndTime": true,
-    "imageLocation": "images/starlight-min.png",
+    "imageLocation": "images/esileikki-min.png",
     "description": "On tärkeää lämmitellä ennen suoritusta. Esileikki valmistelee optimaaliseen Kaljaasikokemukseen ja virittelee kosteaan tunnelmaan.\n\nEsileikki sisältää viihdettä hyttien siivouksen valmistumista odotellessa. Ohjelmassa mm. juomapelejä sekä spektaakkeli: Kide.app Onnenpyörä.\n\nStarlightin sulkeutuessa janoisimmat löytävät juotavaa Promenaden baareista; Sushi ja Promenade Wine Bar, Old Port Pub sekä Kahvila Fast Lane.\n\n<b><y>Ilmoittaudu Pukukilpailuun</y></b>\nIlmoittaudu Fantasy Island -pukukilpailuun ennakkoon Esileikin aikana. Tarkemmat ohjeet juontajalta.",
     "notification": {
       "description": "Esileikki viihdyttää hyttien siivouksen valmistumista odotellessa Starlightissa",
@@ -151,7 +151,7 @@
     "startTime": "2024-11-10T22:45:00",
     "endTime": "2024-11-11T00:00:00",
     "location": "starlight",
-    "imageLocation": "images/promebileet-min.png",
+    "imageLocation": "images/dj-min.png",
     "notification": {
       "description": "DJ soittaa Starlightissa 22.45-00.00",
       "notificationTimeAddition": 0
@@ -206,7 +206,7 @@
     "endTime": "2024-11-11T06:00:00",
     "showEndTime": true,
     "location": "starlight",
-    "imageLocation": "images/bileet-min.png",
+    "imageLocation": "images/dj-min.png",
     "notification": {
       "description": "DJ tanssittaa Kaljaasikansaa aina aamukuuteen Starlightissa, nukkua ehtii myöhemminkin!",
       "notificationTimeAddition": 0
@@ -341,7 +341,7 @@
     "startTime": "2024-11-11T19:00:00",
     "endTime": "2024-11-11T22:30:00",
     "showEndTime": false,
-    "imageLocation": "images/promebileet-min.png",
+    "imageLocation": "images/dj-min.png",
     "notification": {
       "description": "DJ soittaa Starlightissa 20-22.30",
       "notificationTimeAddition": 0
@@ -427,7 +427,7 @@
     "startTime": "2024-11-12T02:30:00",
     "endTime": "2024-11-12T05:00:00",
     "showEndTime": true,
-    "imageLocation": "images/bileet-min.png",
+    "imageLocation": "images/dj-min.png",
     "notification": {
       "description": "DJ tanssittaa Kaljaasikansaa aina aamukuuteen, nukkua ehtii myöhemminkin!",
       "notificationTimeAddition": 0
