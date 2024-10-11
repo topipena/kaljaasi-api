@@ -8,7 +8,7 @@
     "location": "olympiaterminaali",
     "showEndTime": false,
     "imageLocation": "images/laivaan-min.png",
-    "description": "Turvatarkastus alkaa klo 12.30 ja laivaan pääsee klo 13.00 alkaen. <b>Huomioithan, että hyttien siivous on vielä kesken ja hytteihin saa mennä vasta klo 15.30.</b>\n\nHytteihin pääsyä voi odotella Kaljaasin Esileikin merkeissä Starlight-yökerhossa tai Sunflower Oasis -kylpylässä.\n\n<b>Turvatarkastus</b>\nJärjestyksenvalvojat tekevät lähtöterminaalissa kaikille turvatarkastuksen, jossa tarkistetaan ettei laivaan tuoda tapahtumassa kiellettyjä asioita. Jätäthän myös kaiken ruoan ja juoman kotiin.\n\nKielletyt esineet ja asiat:\n• Alkoholituotteet ja muut huumaavat aineet\n• Polkupyörät, potkulaudat, skeittilaudat ja sähkömopot\n• Ampuma-, terä- ja lyömäaseet\n• Räjähteet, ilotulitteet, soihdut, laserit, spraymaalit\n• Lemmikit\n\nKiellettyjä aineita ja esineitä ei takavarikoida säilytykseen turvatarkastuksessa, vaan ne tulee jättää terminaalin kioskin maksulliseen säilytykseen tai heittää roskiin. Pienet taskukokoiset kaiuttimet ovat sallittuja, max 20 x 10 x 10 cm.",
+    "description": "Turvatarkastus alkaa klo 12.30 ja laivaan pääsee klo 13.00 alkaen. <b>Huomioithan, että hyttien siivous on vielä kesken ja hytteihin saa mennä vasta klo 15.30.</b>\n\nHytteihin pääsyä voi odotella Kaljaasin Esileikin merkeissä Starlight-yökerhossa tai Sunflower Oasis -kylpylässä.\n\n<b>Turvatarkastus</b>\nJärjestyksenvalvojat tekevät lähtöterminaalissa kaikille turvatarkastuksen, jossa tarkistetaan ettei laivaan tuoda tapahtumassa kiellettyjä asioita. Jätäthän myös kaiken ruoan ja juoman kotiin.\n\nKielletyt esineet ja asiat:\n• Alkoholituotteet ja muut huumaavat aineet\n• Polkupyörät, potkulaudat, skeittilaudat ja sähkömopot\n• Ampuma-, terä- ja lyömäaseet\n• Räjähteet, ilotulitteet, soihdut, laserit, spraymaalit\n• Lemmikit\n\nKiellettyjä aineita ja esineitä ei takavarikoida säilytykseen turvatarkastuksessa, vaan ne tulee jättää terminaalin kioskin maksulliseen säilytykseen tai heittää roskiin.\n\nVoit tuoda laivaan oman kaiuttimen. Huomioithan, että järjestyksenvalvojat voivat takavarikoida äänentoistolaitteet mikäli niiden käytöstä aiheutuu häiriötä ja/tai äänenvoimakkuus vaikuttaa laivan turvallisuuteen tai muiden matkustajien viihtyvyyteen. Esim. turvakuulutukset eivät kuulu tai muut matkustajat eivät saa naapurihytissä nukuttua. Laivan yleisissä tiloissa omat kaiuttimet on kielletty.",
     "notification": {
       "description": "Laivaan pääsee jo klo 13.00 alkaen, mutta hyttiin saa mennä vasta klo 15.30.",
       "notificationTimeAddition": -15
@@ -23,7 +23,7 @@
     "location": "starlight",
     "showEndTime": true,
     "imageLocation": "images/esileikki-min.png",
-    "description": "On tärkeää lämmitellä ennen suoritusta. Esileikki valmistelee optimaaliseen Kaljaasikokemukseen ja virittelee kosteaan tunnelmaan.\n\nEsileikki sisältää viihdettä hyttien siivouksen valmistumista odotellessa. Ohjelmassa mm. juomapelejä sekä spektaakkeli: Kide.app Onnenpyörä.\n\nStarlightin sulkeutuessa janoisimmat löytävät juotavaa Promenaden baareista; Sushi ja Promenade Wine Bar, Old Port Pub sekä Kahvila Fast Lane.\n\n<b><y>Ilmoittaudu Pukukilpailuun</y></b>\nIlmoittaudu Fantasy Island -pukukilpailuun ennakkoon Esileikin aikana. Tarkemmat ohjeet juontajalta.",
+    "description": "On tärkeää lämmitellä ennen suoritusta. Esileikki valmistelee optimaaliseen Kaljaasikokemukseen ja virittelee kosteaan tunnelmaan.\n\nEsileikki sisältää viihdettä hyttien siivouksen valmistumista odotellessa. Ohjelmassa mm. juomapelejä sekä spektaakkeli: Kide.app Onnenpyörä.\n\nStarlightin sulkeutuessa janoisimmat löytävät juotavaa Promenaden baareista; Sushi ja Promenade Wine Bar, Old Port Pub sekä Kahvila Fast Lane.\n\n<b><y>Ilmoittaudu Pukukilpailuun</y></b>\nIlmoittaudu pukukilpailuun ennakkoon Esileikin aikana. Tarkemmat ohjeet juontajalta.",
     "notification": {
       "description": "Esileikki viihdyttää hyttien siivouksen valmistumista odotellessa Starlightissa",
       "notificationTimeAddition": -15
@@ -38,7 +38,7 @@
     "location": "starlight",
     "showEndTime": true,
     "imageLocation": "images/pukukisa-min.png",
-    "description": "Kaljaasi ei olisi mitään ilman teeman mukaisia asuja. Kuka vie tänä vuonna huikean pukuskaban voiton?\n\n<b>Pukukilpailuun ilmoittautuminen </b>\nIlmoittaudu ennakkoon ja nouda kilpailunumero:\nEsileikissä klo 13.30-15.00\nSilja Conference -tilassa, kansi 6, klo 19.30-20.30\n\nIlmoittautuessa ei tarvitse olla pukeutuneena kilpailuasuun.\nPaikkoja pukukilpailuun on rajoitetusti. Tänä vuonna kilpaillaan kahdessa luokassa, sekä yksilönä että joukkueena. Molemmista luokista valitaan oma voittaja. Vain olemalla paikalla voit voittaa. Osallistujia pyydetään saapumaan Casino Bariin viimeistään klo 21.50.\n\nKilpailijat kutsutaan lavalle numerojärjestyksessä ja yleisö valitsee finaalissa upeimmat asut ja hahmot.\nTätä et tahdo missata!",
+    "description": "Kaljaasi ei olisi mitään ilman teeman mukaisia asuja. Kuka vie tänä vuonna huikean pukuskaban voiton?\n\n<b>Pukukilpailuun ilmoittautuminen </b>\nIlmoittaudu ennakkoon:\nEsileikissä klo 13.30-15.30\nSilja Conference -tilassa, kansi 6, klo 19.30-20.45\n\nIlmoittautuessa ei tarvitse olla pukeutuneena kilpailuasuun.\nPaikkoja pukukilpailuun on rajoitetusti. Tänä vuonna kilpaillaan kahdessa luokassa, sekä yksilönä että joukkueena. Molemmista luokista valitaan oma voittaja. Vain olemalla paikalla voit voittaa. Kisaan ilmoittautuneille jaetaan kirjalliset ohjeet.\n\nKilpailijat kutsutaan lavalle numerojärjestyksessä ja yleisö valitsee finaalissa upeimmat asut ja hahmot.\nTätä et tahdo missata!",
     "notification": {
       "description": "Ilmoittaudu pukukisaan ennakkoon! Katso ohjeet sovelluksesta!",
       "notificationTimeAddition": -5
@@ -71,7 +71,7 @@
       "description": "Kokoa oma kaveriporukkasi ja lähde mukaan rakkaudentäyteiselle rastiseikkailulle sunnuntaina klo 16.30",
       "notificationTimeAddition": -5
     },
-    "description": "Kokoa oma kaveriporukkasi ja lähde mukaan rakkaudentäyteiselle rastiseikkailulle sunnuntaina klo 16.30.\n\n<b>Rastipassit jaetaan sunnuntaina</b>\nStarlightin sisäänkäynnin edessä, kansi 7, klo 16.30\n\nJoukkueen koko: 2-8\nRastipasseja on jaossa 100 nopeimmalle joukkueelle.\n<b>Huom! 1 passi / joukkue!</b>\n\nKierrä joukkueen kanssa ympäri laivaa sijoitetut rastit. Rastien sijainnin löydät rastipassista. Rasteilla joukkueet suorittavat erilaisia aikamatka-aiheisia tehtäviä ja Kaljaasin yhteistyökumppanit arvioivat joukkueen suorituksen. Eniten pisteitä keränneet voittavat upeita eksklusiivisia palkintoja!\n\nRastit ovat avoinna klo 16.30 - 20.30.\nRastipassien palautus klo 19.30-20.40 Silja Conference -tilaan, kansi 6.\n\nVoittajajoukkueet julkistetaan noin klo 21.25 The Love Boat -shown aikana Starlight-yökerhossa. Vain olemalla paikalla palkintojenjaossa voi voittaa!"
+    "description": "Kokoa oma kaveriporukkasi ja lähde mukaan rakkaudentäyteiselle rastiseikkailulle sunnuntaina klo 16.30.\n\n<b>Rastipassit jaetaan sunnuntaina</b>\nStarlightin sisäänkäynnin edessä, kansi 7, klo 16.30\n\nJoukkueen koko: 2-8\nRastipasseja on jaossa 100 nopeimmalle joukkueelle.\n<b>Huom! 1 passi / joukkue!</b>\n\nKierrä joukkueen kanssa ympäri laivaa sijoitetut rastit. Rastien sijainnin löydät rastipassista. Rasteilla joukkueet suorittavat erilaisia rakkauden rastiretki -aiheisia tehtäviä ja Kaljaasin yhteistyökumppanit arvioivat joukkueen suorituksen. Eniten pisteitä keränneet voittavat upeita eksklusiivisia palkintoja!\n\nRastit ovat avoinna klo 16.30 - 20.30.\nRastipassien palautus klo 19.30-20.45 Silja Conference -tilaan, kansi 6.\n\nVoittajajoukkueet julkistetaan noin klo 21.25 The Love Boat -shown aikana Starlight-yökerhossa. Vain olemalla paikalla palkintojenjaossa voi voittaa!"
   },
   {
     "id": 5,
@@ -79,7 +79,7 @@
     "day": "sunday",
     "startTime": "2024-11-10T17:00:00",
     "endTime": "2024-11-10T20:00:00",
-    "location": "nyClub",
+    "location": "promenade",
     "showEndTime": true,
     "imageLocation": "images/photowall-min.png",
     "notification": {
@@ -112,7 +112,7 @@
     "showEndTime": true,
     "location": "starlight",
     "imageLocation": "images/juokaljaasi-min.png",
-    "description": "Koko risteilyn viihdyttävin show, jota et varmasti halua jättää väliin! Nouda baaritiskiltä cocktail ja nauti matkasta läpi aikojen universumin.\n\nShow sisältää mm. jo perinteeksi muodostuneen Juo Kaljaasi -elämyksen, raikkaan tuulahduksen ajasta ennen Tinderiä, Rakkausbarometrin julkistustilaisuuden, risteilyn omat rakkaudenlähettiläät: KaljaasiCupidot ja paljon muuta!\nShown aikana jaetaan myös rastikierroksen palkinnot. Palkintoja ei ole mahdollista lunastaa jälkikäteen, muistathan olla paikalla."
+    "description": "Koko risteilyn viihdyttävin show, jota et varmasti halua jättää väliin! Nouda baaritiskiltä cocktail ja nauti matkasta läpi rakkauden universumin.\n\nShow sisältää mm. jo perinteeksi muodostuneen Juo Kaljaasi -elämyksen, raikkaan tuulahduksen ajasta ennen Tinderiä, Rakkausbarometrin julkistustilaisuuden, risteilyn omat rakkaudenlähettiläät: KaljaasiCupidot ja paljon muuta!\nShown aikana jaetaan myös rastikierroksen palkinnot. Palkintoja ei ole mahdollista lunastaa jälkikäteen, muistathan olla paikalla."
   },
   {
     "id": 8,
@@ -142,7 +142,7 @@
       "description": "Kuka vie tänä vuonna huikean pukuskaban voiton? Osallistujat conferenceen klo 21.50, katsojille herkkua tiedossa klo 22.15 Starlightissa",
       "notificationTimeAddition": -15
     },
-    "description": "Kaljaasi ei olisi mitään ilman teeman mukaisia asuja. Kuka vie tänä vuonna huikean pukuskaban voiton?\n\n<b>Pukukilpailuun ilmoittautuminen</b>\nIlmoittaudu ennakkoon ja nouda kilpailunumero:\nEsileikissä klo 13.30-15.00\nSilja Conference -tilassa, kansi 6, klo 19.30-20.30\n\nIlmoittautuessa ei tarvitse olla pukeutuneena kilpailuasuun.\nPaikkoja pukukilpailuun on rajoitetusti. Tänä vuonna kilpaillaan kahdessa luokassa, sekä yksilönä että joukkueena. Molemmista luokista valitaan oma voittaja. Vain olemalla paikalla voit voittaa. Osallistujia pyydetään saapumaan laivan conference-tilaan (kansi 6) viimeistään klo 21.50\n\nKilpailijat kutsutaan lavalle numerojärjestyksessä ja yleisö valitsee finaalissa upeimmat asut ja hahmot.\nTätä et tahdo missata!"
+    "description": "Kaljaasi ei olisi mitään ilman teeman mukaisia asuja. Kuka vie tänä vuonna huikean pukuskaban voiton?\n\n<b>Pukukilpailuun ilmoittautuminen</b>\nIlmoittaudu ennakkoon:\nEsileikissä klo 13.30-15.30\nSilja Conference -tilassa, kansi 6, klo 19.30-20.45\n\nIlmoittautuessa ei tarvitse olla pukeutuneena kilpailuasuun.\nPaikkoja pukukilpailuun on rajoitetusti. Tänä vuonna kilpaillaan kahdessa luokassa, sekä yksilönä että joukkueena. Molemmista luokista valitaan oma voittaja. Vain olemalla paikalla voit voittaa. Osallistujia pyydetään saapumaan laivan conference-tilaan (kansi 6) viimeistään klo 21.50\n\nKilpailijat kutsutaan lavalle numerojärjestyksessä ja yleisö valitsee finaalissa upeimmat asut ja hahmot.\nTätä et tahdo missata!"
   },
   {
     "id": 10,
@@ -309,7 +309,7 @@
     "day": "monday",
     "location": "starlight",
     "startTime": "2024-11-11T19:00:00",
-    "endTime": "2024-11-11T22:00:00",
+    "endTime": "2024-11-11T20:00:00",
     "showEndTime": true,
     "imageLocation": "images/speeddate-min.png",
     "notification": {
