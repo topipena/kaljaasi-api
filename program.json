@@ -313,10 +313,10 @@
     "showEndTime": true,
     "imageLocation": "images/speeddate-min.png",
     "notification": {
-      "description": "Löydä kaljakaveri Starlightin speed date -treffeiltä klo 19-20",
+      "description": "Löydä kaljakaveri Starlightin speed friend -treffeiltä klo 19-20",
       "notificationTimeAddition": -10
     },
-    "description": "Oletko koskaan toivonut, että voisit tutustua mahdollisimman moneen uuteen Kaljaasikaveriin, mutta aika ei tahdo riittää? Kaljaasin oma speed date -pikatutustumisohjelma on vastaus toiveisiisi! Tämä tutustumisen moottorivene on täydellinen tilaisuus tavata monta mahtavaa tyyppiä ja kokea ehkä Kaljaasirakkauskin risteilyn toisen illan aikana."
+    "description": "Oletko koskaan toivonut, että voisit tutustua mahdollisimman moneen uuteen Kaljaasikaveriin, mutta aika ei tahdo riittää? Kaljaasin oma speed date -pikatutustumisohjelma on vastaus toiveisiisi! Tämä tutustumisen moottorivene on täydellinen tilaisuus tavata monta mahtavaa tyyppiä ja kokea ehkä Kaljaasirakkauskin risteilyn toisen illan aikana. Saavu paikalle ja osallistu! Ennakkoilmoittautumista ei tarvita."
   },
   {
     "id": 22,
