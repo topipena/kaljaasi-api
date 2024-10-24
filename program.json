@@ -34,7 +34,7 @@
     "title": "Ilmoittaudu pukukilpailuun",
     "day": "sunday",
     "startTime": "2024-11-10T13:30:00",
-    "endTime": "2024-11-10T20:30:00",
+    "endTime": "2024-11-10T20:45:00",
     "location": "starlight",
     "showEndTime": true,
     "imageLocation": "images/pukukisa-min.png",
@@ -146,17 +146,17 @@
   },
   {
     "id": 10,
-    "title": "DJ JayJay",
+    "title": "DJ Eric Altair",
     "day": "sunday",
     "startTime": "2024-11-10T22:45:00",
     "endTime": "2024-11-11T00:00:00",
     "location": "starlight",
     "imageLocation": "images/dj-min.png",
     "notification": {
-      "description": "DJ JayJay soittaa Starlightissa 22.45-00.00",
+      "description": "DJ Eric Altair soittaa Starlightissa 22.45-00.00",
       "notificationTimeAddition": 0
     },
-    "description": "DJ JayJay viihdyttää musiikilla 22.45-00.00"
+    "description": "DJ Eric Altair viihdyttää musiikilla 22.45-00.00"
   },
   {
     "id": 11,
@@ -335,7 +335,7 @@
   },
   {
     "id": 23,
-    "title": "DJ Funck",
+    "title": "DJ Eric Altair",
     "day": "monday",
     "location": "starlight",
     "startTime": "2024-11-11T20:00:00",
@@ -343,10 +343,10 @@
     "showEndTime": false,
     "imageLocation": "images/dj-min.png",
     "notification": {
-      "description": "DJ Funck soittaa Starlightissa 20-22.30",
+      "description": "DJ Eric Altair soittaa Starlightissa 20-22.30",
       "notificationTimeAddition": 0
     },
-    "description": "DJ Funck viihdyttää musiikilla 20-22.30"
+    "description": "DJ Eric Altair viihdyttää musiikilla 20-22.30"
   },
   {
     "id": 24,
