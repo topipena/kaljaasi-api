@@ -23,7 +23,7 @@
     "location": "starlight",
     "showEndTime": true,
     "imageLocation": "images/esileikki-min.png",
-    "description": "On tärkeää lämmitellä ennen suoritusta. Esileikki valmistelee optimaaliseen Kaljaasikokemukseen ja virittelee kosteaan tunnelmaan.\n\nEsileikki sisältää viihdettä hyttien siivouksen valmistumista odotellessa. Ohjelmassa mm. juomapelejä sekä spektaakkeli: Kide.app Onnenpyörä.\n\nStarlightin sulkeutuessa janoisimmat löytävät juotavaa Promenaden baareista; Sushi ja Promenade Wine Bar, Old Port Pub sekä Kahvila Fast Lane.\n\n<b><y>Ilmoittaudu Pukukilpailuun</y></b>\nIlmoittaudu pukukilpailuun ennakkoon Esileikin aikana. Tarkemmat ohjeet juontajalta.",
+    "description": "On tärkeää lämmitellä ennen suoritusta. Esileikki valmistelee optimaaliseen Kaljaasikokemukseen ja virittelee kosteaan tunnelmaan.\n\nEsileikki sisältää viihdettä hyttien siivouksen valmistumista odotellessa. Ohjelmassa mm. juomapelejä sekä spektaakkeli: Kide.app Onnenpyörä.\n\nStarlightin sulkeutuessa janoisimmat löytävät juotavaa Promenaden baareista; Sushi & Co. ja Promenade Wine Bar, Old Port Pub sekä Kahvila Fast Lane.\n\n<b><y>Ilmoittaudu Pukukilpailuun</y></b>\nIlmoittaudu pukukilpailuun ennakkoon Esileikin aikana. Tarkemmat ohjeet juontajalta.",
     "notification": {
       "description": "Esileikki viihdyttää hyttien siivouksen valmistumista odotellessa Starlightissa",
       "notificationTimeAddition": -15
@@ -146,17 +146,17 @@
   },
   {
     "id": 10,
-    "title": "DJ",
+    "title": "DJ JayJay",
     "day": "sunday",
     "startTime": "2024-11-10T22:45:00",
     "endTime": "2024-11-11T00:00:00",
     "location": "starlight",
     "imageLocation": "images/dj-min.png",
     "notification": {
-      "description": "DJ soittaa Starlightissa 22.45-00.00",
+      "description": "DJ JayJay soittaa Starlightissa 22.45-00.00",
       "notificationTimeAddition": 0
     },
-    "description": "DJ viihdyttää musiikilla 22.45-00.00"
+    "description": "DJ JayJay viihdyttää musiikilla 22.45-00.00"
   },
   {
     "id": 11,
@@ -335,7 +335,7 @@
   },
   {
     "id": 23,
-    "title": "DJ",
+    "title": "DJ Funck",
     "day": "monday",
     "location": "starlight",
     "startTime": "2024-11-11T20:00:00",
@@ -343,10 +343,10 @@
     "showEndTime": false,
     "imageLocation": "images/dj-min.png",
     "notification": {
-      "description": "DJ soittaa Starlightissa 20-22.30",
+      "description": "DJ Funck soittaa Starlightissa 20-22.30",
       "notificationTimeAddition": 0
     },
-    "description": "DJ viihdyttää musiikilla 20-22.30"
+    "description": "DJ Funck viihdyttää musiikilla 20-22.30"
   },
   {
     "id": 24,
