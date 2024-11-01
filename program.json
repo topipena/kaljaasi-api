@@ -217,7 +217,7 @@
     "id": 15,
     "title": "Tukholman Åppro",
     "day": "monday",
-    "location": "oldPortPub",
+    "location": null,
     "startTime": "2024-11-11T10:00:00",
     "endTime": "2024-11-11T16:00:00",
     "showEndTime": true,
